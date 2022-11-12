@@ -1,6 +1,5 @@
-# Hi there, I'm Daniel 😊
+# Hello World, I'm Daniel 😊
 
-- Currently working through The Odin Project's Full Stack Javascript curriculum 🤓
-- I enjoy playing basketball 🏀, reading good books 📚, and brewing kombucha 🍺
-- Learning ⚛️ React and 🟢 NodeJS with plans to eventually learn 🟦 Typescript
+- I enjoy playing basketball 🏀, listening to podcasts 🎙, and jamming on my guitar 🎸
+- Learning ⚛️ Next.js and 🟦 Typescript
 - Feel free to reach out to me on Twitter! 🐦
