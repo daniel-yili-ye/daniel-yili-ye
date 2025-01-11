@@ -1,5 +1,9 @@
 # Hello World
 
-I’m Daniel Ye 👋, a data analyst with a CPA and a passion for web development 👨‍💻.
+Hi, I'm Daniel Ye!
 
-I'm currently building several full-stack applications using technologies such as NextJS, Remix, and MobX. When I'm not self-studying or building side-projects, you can find me on the basketball court, rolling around in the BJJ gym, or getting lost in my latest YouTube rabbit-hole obsession. Let’s build something epic!
+I'm a data analyst with a passion for transforming complex datasets into actionable insights that drive business decisions. Currently, as a Senior Data Analyst at a leading fleet management company, I specialize in automating data workflows, improving reporting processes, and delivering impactful insights to key stakeholders.
+
+With experience spanning data analysis, software development, and consulting at firms like Deloitte, American Express, and Bank of Montreal, I bring a technical and analytical edge to problem-solving. My CPA designation complements this skill set by adding a deep understanding of business operations and financial analysis.
+
+When I’m not analyzing data, you can find me exploring side projects, hooping on the basketball court 🏀, rolling in the BJJ gym 🤼, or going for a long run 🏃‍♂️💨.
